@@ -1,0 +1,24 @@
+{
+	"tier": "pro",
+	"signalCount": 13,
+	"lastSignalTime": 1749145079357,
+	"lastCallbackTime": 0,
+	"lastSignalDate": "2025-06-05",
+	"totalSignalCount": 13,
+	"joinDate": "2025-06-05",
+	"aiUsage": {
+		"gpt4": 3,
+		"gemini": 0,
+		"deepseek": 10
+	},
+	"forexUsage": 10,
+	"cryptoUsage": 3,
+	"selectedAI": "deepseek",
+	"selectedMarketType": null,
+	"selectedSymbol": null,
+	"selectedTimeframe": null,
+	"tradingPlanCount": 4,
+	"lastTradingPlanTime": 1749149750314,
+	"lastUpgradeDate": "2025-06-05",
+	"tierExpiryDate": null
+}

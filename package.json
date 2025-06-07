@@ -1,0 +1,28 @@
+{
+  "name": "testing-trading-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@grammyjs/storage-file": "^2.5.1",
+    "@grammyjs/storage-free": "^2.5.1",
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "grammy": "^1.36.3",
+    "node-cron": "^4.1.0",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.29",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
